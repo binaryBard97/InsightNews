@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+
+
+# Logs
+*.log
+
+# Environment variable files
+.env
+
+
+# Dependency directories
+venv/
+.venv/
+
+# Python
+__pycache__/
+
+
+# MacOS
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# vscode
+.vscode/
